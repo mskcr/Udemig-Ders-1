@@ -1,11 +1,11 @@
 <h1>Udemig-Ders-1</h1>
 
-Header , Footer ve Main alanı çalışması yapıldı.
+Header, Footer and Main area work was done.
 
-<h2>Kullanılan Kütüphaneler</h2>
+<h2>Libraries Used</h2>
 
-Html ve Css kullanılarak yapılmıştır.
+Made using HTML and Css.
 
-<h2>Ekran Görüntüsü</h2>
+<h2>Screenshot</h2>
 
-![]()
+![](ders1-video.gif)
